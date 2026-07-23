@@ -1,20 +1,26 @@
 # DEEPLBMNet
 
-> **Physics-Inspired Artificial Intelligence based on the Lattice Boltzmann Method**
+### Physics-Inspired Artificial Intelligence based on the Lattice Boltzmann Method
 
-DEEPLBMNet is an open research initiative dedicated to developing the next generation of Physics-Inspired Artificial Intelligence by integrating the mathematical foundations of the Lattice Boltzmann Method (LBM) with modern deep learning.
+**DEEPLBMNet** is an open scientific research initiative dedicated to advancing the next generation of Physics-Inspired Artificial Intelligence by integrating the mathematical foundations of the Lattice Boltzmann Method (LBM) with modern deep learning.
 
-Our vision is to bridge physics, mathematics, and artificial intelligence to design efficient, interpretable, and scientifically grounded neural architectures for scientific computing and real-world AI applications.
-
----
-
-## 🌍 Website
-
-**Official Website:** https://deeplbmnet.com
+Our mission is to bridge computational physics, applied mathematics, and artificial intelligence to develop efficient, interpretable, and scientifically grounded neural architectures for scientific computing, computer vision, and medical imaging.
 
 ---
 
-## 🎯 Research Areas
+## 🌐 Official Website
+
+https://deeplbmnet.com
+
+---
+
+# Vision
+
+DEEPLBMNet aims to establish a new paradigm in artificial intelligence by combining physical modeling with deep learning. Rather than relying solely on conventional neural network architectures, the project investigates physics-inspired approaches capable of improving robustness, interpretability, and computational efficiency.
+
+---
+
+# Research Areas
 
 - Physics-Inspired Artificial Intelligence
 - Scientific Machine Learning
@@ -22,63 +28,74 @@ Our vision is to bridge physics, mathematics, and artificial intelligence to des
 - Deep Learning
 - Computer Vision
 - Medical Imaging
+- Image Restoration
 - Image Inpainting
 - Image Segmentation
-- Object Detection
 - Image Classification
-- Image Restoration
+- Object Detection
 - Image Super-Resolution
 - Image Colorization
 - Scientific Computing
 
 ---
 
-## 🚀 Mission
+# Current Status
 
-The mission of DEEPLBMNet is to explore innovative AI architectures inspired by physical principles and to contribute to the advancement of Scientific Machine Learning through rigorous research, open collaboration, and high-quality educational resources.
+DEEPLBMNet is currently under active research and continuous development.
 
----
-
-## 📌 Project Status
-
-DEEPLBMNet is currently under active research and development.
-
-Several research papers are under review or in preparation. To preserve the integrity of the scientific publication process, the implementation of novel architectures, pretrained models, and source code will be released progressively after the corresponding scientific publications.
+Several research projects are in progress. Scientific publications, source code, pretrained models, technical reports, and documentation will be released progressively as the corresponding research becomes publicly available.
 
 ---
 
-## 🔬 Future Releases
+# Project Goals
+
+- Develop novel physics-inspired neural architectures.
+- Advance Scientific Machine Learning.
+- Bridge physics and artificial intelligence.
+- Promote reproducible scientific research.
+- Build efficient and interpretable AI models.
+- Support researchers, students, and the scientific community.
+
+---
+
+# Future Releases
 
 The repository will progressively include:
 
-- Scientific publications
-- Open-source implementations
-- Pretrained models
+- Scientific Publications
+- Open-Source Implementations
+- Pretrained Models
 - Tutorials
-- Benchmarks
 - Documentation
-- Examples and demonstrations
+- Benchmarks
+- Demonstration Projects
 
 ---
 
-## 🤝 Collaboration
+# Collaboration
 
-Researchers, students, and collaborators interested in Physics-Inspired AI, Scientific Machine Learning, and the Lattice Boltzmann Method are welcome to follow the project and contribute to future developments.
-
----
-
-## 📫 Contact
-
-For research collaborations or academic inquiries, please visit:
-
-**https://deeplbmnet.com**
+DEEPLBMNet welcomes collaborations from researchers, students, universities, and research laboratories interested in Physics-Inspired AI, Scientific Machine Learning, and computational physics.
 
 ---
 
-## 📄 License
+# Website
 
-This project is released under the Apache License 2.0.
+For the latest news, publications, and project updates, visit
+
+https://deeplbmnet.com
 
 ---
 
-© DEEPLBMNet Research Project. All rights reserved.
+# License
+
+This repository is distributed under the Apache License 2.0.
+
+---
+
+## Citation
+
+Citation information will be provided following the publication of the first DEEPLBMNet research articles.
+
+---
+
+© 2026 DEEPLBMNet Research Project. All Rights Reserved.
