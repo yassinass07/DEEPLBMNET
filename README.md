@@ -4,7 +4,9 @@
 <p align="center">
   <img src="images/logos.png" alt="DEEPLBMNet Logo" width="180">
 </p>
-
+<p align="center">
+  <img src="images/bann.png" alt="DEEPLBMNet Banner" width="100%">
+</p>
 <h1 align="center">DEEPLBMNet</h1>
 
 <p align="center">
