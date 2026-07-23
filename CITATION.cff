@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+title: "DEEPLBMNet"
+message: "If you use DEEPLBMNet in your research, please cite this repository."
+type: software
+
+authors:
+  - family-names: "Douich"
+    given-names: "Yassine"
+
+abstract: >
+  DEEPLBMNet is an independent research initiative dedicated to developing
+  physics-inspired artificial intelligence architectures based on the
+  Lattice Boltzmann Method (LBM) for scientific computing and AI applications.
+
+keywords:
+  - Artificial Intelligence
+  - Deep Learning
+  - Physics-Inspired AI
+  - Lattice Boltzmann Method
+  - Scientific Machine Learning
+  - Computer Vision
+  - Medical Imaging
+
+repository-code: "https://github.com/TON-NOM-UTILISATEUR/DEEPLBMNet"
+url: "https://deeplbmnet.com"
+
+license: "Apache-2.0"
+
+version: "0.1.0"
+
+date-released: "2026-07-23"
