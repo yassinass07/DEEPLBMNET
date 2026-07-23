@@ -147,7 +147,15 @@ For research collaborations, academic inquiries, or project updates, please visi
 🌐 **https://deeplbmnet.com**
 
 ---
+## ❤️ Support DEEPLBMNet
 
+If you find DEEPLBMNet useful and would like to support our research, please consider making a donation.
+
+Your support helps us develop open scientific resources, conduct research, and release future publications, models, and educational materials.
+
+👉 **Support DEEPLBMNet:** https://deeplbmnet.com/donate
+
+Thank you for supporting open scientific research.
 <div align="center">
 
 ## DEEPLBMNet
