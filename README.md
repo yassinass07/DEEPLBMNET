@@ -2,7 +2,7 @@
 
 <div align="center">
 <p align="center">
-  <img src="images/logo.png" alt="DEEPLBMNet Logo" width="180">
+  <img src="images/logos.png" alt="DEEPLBMNet Logo" width="180">
 </p>
 
 <h1 align="center">DEEPLBMNet</h1>
