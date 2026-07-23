@@ -1,4 +1,6 @@
 # DEEPLBMNet
+
+<div align="center">
 <p align="center">
   <img src="images/logo.png" alt="DEEPLBMNet Logo" width="180">
 </p>
@@ -8,8 +10,6 @@
 <p align="center">
 Physics-Inspired Artificial Intelligence based on the Lattice Boltzmann Method
 </p>
-<div align="center">
-
 ## Physics-Inspired Artificial Intelligence based on the Lattice Boltzmann Method
 
 **Bridging Physics, Mathematics, and Deep Learning**
